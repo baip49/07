@@ -1,0 +1,58 @@
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\bin\Debug\05.exe.config
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\bin\Debug\05.exe
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\bin\Debug\05.pdb
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\obj\Debug\05.csproj.AssemblyReference.cache
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\obj\Debug\05.csproj.SuggestedBindingRedirects.cache
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\obj\Debug\_05.Form1.resources
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\obj\Debug\_05.Properties.Resources.resources
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\obj\Debug\05.csproj.GenerateResource.cache
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\obj\Debug\05.exe
+C:\Users\185491\Desktop\Universidad Kike\Programación avanzada\05\05\obj\Debug\05.pdb
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\04\05\05\bin\Debug\05.exe.config
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\04\05\05\bin\Debug\05.exe
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\04\05\05\bin\Debug\05.pdb
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\04\05\05\obj\Debug\05.csproj.AssemblyReference.cache
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\04\05\05\obj\Debug\_05.Form1.resources
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\04\05\05\obj\Debug\_05.Properties.Resources.resources
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\04\05\05\obj\Debug\05.csproj.GenerateResource.cache
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\04\05\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\04\05\05\obj\Debug\05.exe
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\04\05\05\obj\Debug\05.pdb
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\05\05\05\bin\Debug\05.exe.config
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\05\05\05\bin\Debug\05.exe
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\05\05\05\bin\Debug\05.pdb
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\05\05\05\obj\Debug\05.csproj.AssemblyReference.cache
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\05\05\05\obj\Debug\_05.Form1.resources
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\05\05\05\obj\Debug\_05.Properties.Resources.resources
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\05\05\05\obj\Debug\05.csproj.GenerateResource.cache
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\05\05\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\05\05\05\obj\Debug\05.exe
+C:\Users\byp3n\OneDrive\Documentos\.UNACH\Programación avanzada\05\05\05\obj\Debug\05.pdb
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\05\05\05\bin\Debug\05.exe.config
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\05\05\05\bin\Debug\05.exe
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\05\05\05\bin\Debug\05.pdb
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\05\05\05\obj\Debug\05.csproj.AssemblyReference.cache
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\05\05\05\obj\Debug\_05.Form1.resources
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\05\05\05\obj\Debug\_05.Properties.Resources.resources
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\05\05\05\obj\Debug\05.csproj.GenerateResource.cache
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\05\05\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\05\05\05\obj\Debug\05.exe
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\05\05\05\obj\Debug\05.pdb
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\bin\Debug\05.exe.config
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\bin\Debug\05.exe
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\bin\Debug\05.pdb
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\bin\Debug\MySql.Data.dll
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\bin\Debug\System.Memory.dll
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\bin\Debug\System.Buffers.dll
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\bin\Debug\MySql.Data.xml
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\obj\Debug\05.csproj.AssemblyReference.cache
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\obj\Debug\_05.Form1.resources
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\obj\Debug\_05.Properties.Resources.resources
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\obj\Debug\05.csproj.GenerateResource.cache
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\obj\Debug\05.csproj.CopyComplete
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\obj\Debug\05.exe
+C:\Users\byp3n\Documents\.UNACH\Programación avanzada\07\05\05\obj\Debug\05.pdb

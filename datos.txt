@@ -1,0 +1,6 @@
+Nombres: Cesar Enrique
+Apellidos: Sanchez Montoya
+Teléfono: 9671389449
+Estatura: 1.70
+Edad: 19
+Género: Hombre
